@@ -67,3 +67,39 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+.pic {
+  width: 120px;
+  border-radius: 50%;
+}
+
+.tbody {
+  background-color: #747bff45;
+}
+td {
+  padding: 20px;
+}
+
+table {
+  border-radius: 5px;
+}
+
+.btnContainer {
+  display: flex;
+  justify-content: space-evenly;
+  margin-bottom: 20px;
+}
+.btn {
+  background-color: #747bffe6;
+  border-radius: 5px;
+  color: #1a1a1a;
+  font-weight: bold;
+  border: white 2px solid;
+}
+.header {
+  font-weight: bold;
+  font-size: 20px;
+  background-color: #535bf2;
+}
+.header .name {
+  padding: 20px;
+}
